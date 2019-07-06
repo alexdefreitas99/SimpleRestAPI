@@ -1,0 +1,19 @@
+{
+  "name": "simplerestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdefreitas99/SimpleRestAPI.git"
+  },
+  "author": "Alex Siqueira de Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexdefreitas99/SimpleRestAPI/issues"
+  },
+  "homepage": "https://github.com/alexdefreitas99/SimpleRestAPI#readme"
+}
