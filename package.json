@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/alexdefreitas99/SimpleRestAPI/issues"
   },
-  "homepage": "https://github.com/alexdefreitas99/SimpleRestAPI#readme"
+  "homepage": "https://github.com/alexdefreitas99/SimpleRestAPI#readme",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "jsonwebtoken": "latest",
+    "moment": "latest",
+    "moment-timezone": "latest",
+    "mongoose": "latest",
+    "node-uuid": "latest",
+    "swagger-ui-express": "latest",
+    "sync-request": "latest"
+  }
 }
